@@ -1,0 +1,34 @@
+# Model weights — hosted on HuggingFace, never committed to git
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Generated outputs / experiment products
+outputs/
+save/
+save_*/
+logs/
+data/
+*.png
+*.jpg
+*.jpeg
+!assets/*.png
+!assets/*.jpg
+!examples/expected_outputs/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/

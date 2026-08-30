@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "category": "gold_chemistry",
+    "prompt": "An iron nail submerged in hydrochloric acid"
+  },
+  {
+    "id": 1,
+    "category": "gold_commonsense",
+    "prompt": "The food most loved by Minions from the movie franchise"
+  },
+  {
+    "id": 2,
+    "category": "complex_comprehension",
+    "prompt": "Capture an image featuring three distinct human-made artifacts: one being a kitchen appliance used for homogenizing substances, rendered in a hue associated with diluted rose pigments; another resembling the iconic compact automobile famously commissioned by the German government in the 1930s and colloquially named after an insect due to its rounded silhouette, presented in the absence of reflected visible light; and the third, a thermal regulation device engineered to elevate ambient temperature, colored in the wavelength range of approximately 590–620 nm—akin to the rind of a citrus fruit historically introduced to Europe via trade routes from the East."
+  },
+  {
+    "id": 3,
+    "category": "gold_size_ordering",
+    "prompt": "A soccer ball, a baseball, and a golf ball, with the largest ball at the top, the medium-sized one in the middle, and the smallest at the bottom"
+  },
+  {
+    "id": 4,
+    "category": "count_math_spatial",
+    "prompt": "Depict a visual composition where the number of elongated, rung-equipped climbing tools—typically governed by principles of static equilibrium and torque when leaned against a vertical surface—equals the solution to the equation √4, positioned in the upper half of the frame; simultaneously, in the lower half, place a quantity of bound collections of printed pages—artifacts central to the transmission of human knowledge—numerically equivalent to the same solution, arranged beneath the aforementioned tools."
+  },
+  {
+    "id": 5,
+    "category": "color_object_decode",
+    "prompt": "Capture an image featuring three distinct utensils or food items: first, a slender cylindrical tube typically employed to channel liquids via suction—rendered in the absence of visible light reflection (i.e. black); second, a dining implement with tines historically associated with European table etiquette, here imbued with the hue reminiscent of cherry blossoms or 1950s American diner aesthetics; and third, elongated strips of deep-fried potato, a culinary invention often contested between France and Belgium, dyed in the shade evocative of a clear daytime sky."
+  },
+  {
+    "id": 6,
+    "category": "color_object_decode",
+    "prompt": "Depict a visual composition featuring: a slender watercraft traditionally used by Indigenous peoples of the Americas, rendered in the wavelength of light corresponding to approximately 510 nanometers; a mature male bovine of the species Bos taurus, whose coat absorbs nearly all visible light due to high melanin concentration; and a human-made device that imparts kinetic energy to air molecules via rotating blades, colored in the hue historically associated with autumn harvests and the fruit of the Citrus sinensis."
+  }
+]
