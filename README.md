@@ -44,8 +44,8 @@
 
 Model weights are released on HuggingFace:
 
-- [GenAgent v1](https://huggingface.co/fengyao123/genagent)
-- [GenAgent v2](https://huggingface.co/fengyao123/genagent)
+- [GenAgent v1](https://huggingface.co/fengyao123/GenAgent)
+- [GenAgent v2](https://huggingface.co/fengyao123/GenAgent)
 
 ## Quick Start
 
